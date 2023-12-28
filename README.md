@@ -21,15 +21,15 @@ Complete a função indicada para extrair uma coluna do arquivo csv em uma lista
 
 # 3º Exercício: Funções para arquivo csv
 
-**Parte 1: Complete a função indicada no material de apoio para extrair uma coluna do arquivo csv em uma lista. Os elementos devem ter o tipo de dado correto.**
+**Parte 1**: Complete a função indicada no material de apoio para extrair uma coluna do arquivo csv em uma lista. Os elementos devem ter o tipo de dado correto.
 
-# Parte 2: Teste a função com os códigos indicados.
+#**Parte 2**: Teste a função com os códigos indicados.
 
 # 4º Exercício: Funções para arquivo txt
 
-# Parte 1: complete a função indicada para extrair as palavras de uma linha do arquivo txt em uma lista.
+**Parte 1**: complete a função indicada para extrair as palavras de uma linha do arquivo txt em uma lista.
 
-# Parte 2: Teste a função com os códigos indicados.
+**Parte 2**: Teste a função com os códigos indicados.
 
 ## Autor: Genésio Moreira Coutinho 
 - Graduado: Bacharelado em Sistemas de Informação | Pós Graduando:  MBA em Gestão da Qualidade em Tecnologia da Informação |Analista de Dados| 1x Azure - AZ900
